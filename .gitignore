@@ -4,3 +4,5 @@ old
 render
 *Logs/
 *_AME
+.vscode/settings.json
+citylab-animationReport.txt
